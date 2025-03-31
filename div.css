@@ -1,0 +1,42 @@
+#t{
+    height: 190px;
+    width: 60px;
+    background-color: rgb(23, 21, 21);
+    border-style: solid;
+    border-color: black;
+    
+}
+#r{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-style: solid;
+    border-color: blue;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    border-radius: 50%;
+
+}
+
+#y{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-style: solid;
+    border-color: blue;
+    margin-bottom: 5px;
+    border-radius: 50%;
+
+
+}
+
+#g{
+    height: 50px;
+    width: 50px;
+    background-color: green;
+    border-style: solid;
+    border-color: blue;
+    margin-bottom: 5px;
+    margin-bottom: 5px;
+    border-radius: 50%;
+}

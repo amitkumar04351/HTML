@@ -1,0 +1,46 @@
+#box1 {
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    font-size: 10px
+}
+
+#box2 {
+    height: 50px;
+    width: 50%;
+    background-color: yellow;
+    font-size: 2em;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+    
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#box3 {
+    background-color: red;
+    position: static;
+}
+
+#box4 {
+    background-color: green;
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+#box5{
+    background-color: aqua;
+    position: sticky;
+    
+}
+
+#box6{
+    background-color: orange;
+    position: fixed;
+    right: 10px;
+    bottom: 20px
+}
