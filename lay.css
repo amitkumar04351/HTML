@@ -1,0 +1,12 @@
+div {
+    height: 250px;
+    width: 250px;
+    background-image: url(car_photo.jpg);
+    background-size: cover;
+    color: azure;
+    position: fixed;
+    right: 0px;
+    
+    
+}
+
